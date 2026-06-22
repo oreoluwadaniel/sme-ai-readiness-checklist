@@ -1,0 +1,1 @@
+# sme-ai-readiness-checklist
