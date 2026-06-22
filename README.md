@@ -100,6 +100,11 @@ The PDF will be saved to the `/output` folder.
 
 The script uses these open-licence fonts, included in the `/fonts` folder:
 
+- Work Sans (Regular, Bold, Italic)
+- IBM Plex Serif (Regular, Bold, Italic)
+
+---
+
 ## Who this is for
 
 This checklist is aimed at:
