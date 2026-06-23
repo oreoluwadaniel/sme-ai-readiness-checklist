@@ -61,15 +61,6 @@ Score one point for every YES. No partial credit.
 | 5 to 8 | You are ready to automate | Document your top 3 manual processes and find the right tool |
 | 9 to 12 | You are ready for intelligence | Apply AI to forecasting, churn prediction, and spend analysis |
 
----
-
-## Download the PDF
-
-The finished checklist PDF is available in the `/output` folder of this repository:
-
-[**Download: AI_Readiness_Checklist_Daniel_Olatunji.pdf**](./output/AI_Readiness_Checklist_Daniel_Olatunji.pdf)
-
----
 
 ## Who this is for
 
