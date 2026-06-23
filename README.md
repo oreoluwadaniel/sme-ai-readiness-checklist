@@ -71,40 +71,6 @@ The finished checklist PDF is available in the `/output` folder of this reposito
 
 ---
 
-## Generate it yourself
-
-If you want to regenerate or customise the PDF, it is built entirely in Python using ReportLab.
-
-### Requirements
-
-```
-Python 3.8+
-reportlab
-```
-
-### Install dependencies
-
-```bash
-pip install reportlab
-```
-
-### Run the generator
-
-```bash
-python generate_checklist.py
-```
-
-The PDF will be saved to the `/output` folder.
-
-### Fonts used
-
-The script uses these open-licence fonts, included in the `/fonts` folder:
-
-- Work Sans (Regular, Bold, Italic)
-- IBM Plex Serif (Regular, Bold, Italic)
-
----
-
 ## Who this is for
 
 This checklist is aimed at:
@@ -133,21 +99,3 @@ This resource is free to download, share, and reference. You are welcome to adap
 
 ---
 
-## Repository structure
-
-```
-/
-├── README.md
-├── generate_checklist.py
-├── requirements.txt
-├── output/
-│   └── AI_Readiness_Checklist_Daniel_Olatunji.pdf
-├── fonts/
-│   ├── WorkSans-Regular.ttf
-│   ├── WorkSans-Bold.ttf
-│   ├── WorkSans-Italic.ttf
-│   ├── IBMPlexSerif-Regular.ttf
-│   ├── IBMPlexSerif-Bold.ttf
-│   └── IBMPlexSerif-Italic.ttf
-└── .gitignore
-```
