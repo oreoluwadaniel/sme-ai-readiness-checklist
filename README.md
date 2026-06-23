@@ -80,7 +80,7 @@ Created by **Daniel Olatunji**, Data and Automation Consultant.
 
 I work with early-stage founders and SME operators across Africa, the UK, and Europe to replace manual reporting and disconnected systems with clean data infrastructure and automated workflows.
 
-If you want to talk through your score or understand what the next step looks like for your specific business, reach out at **danielolatunji25@gmail.com**.
+If you want to talk through your score or understand what the next step looks like for your specific business, reach out at **danolatunji25@gmail.com**.
 
 ---
 
